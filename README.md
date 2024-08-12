@@ -4,7 +4,6 @@
 - I am currently working on Computer Vision, Machine Learning related projects. Sometimes on linux/foss stuff
 - Personal Site: [basecode.website](https://basecode.website/)
 - Email: [deusxyz@vk.com](mailto:deusxyz@vk.com)
-- 
 
 <!--
 **hexencoded/hexencoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
